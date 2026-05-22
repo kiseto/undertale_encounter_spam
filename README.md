@@ -40,5 +40,3 @@ focus undertale first, then press `f8`.
 after that, you can alt-tab and it should keep spamming in undertale.
 
 don’t forget to press `f8` again to stop.
-
-```
