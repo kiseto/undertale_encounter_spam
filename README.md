@@ -1,6 +1,8 @@
 # undertale spam helper
 
-small personal script for undertale encounter farming.
+![undertale](https://preview.redd.it/did-an-entire-genocide-run-just-to-make-this-joke-v0-xpgw8ux7wom61.png?width=1080&crop=smart&auto=webp&s=2c7b12cdc102f623be2b85e7a421084fafe6debd)
+
+small personal script for undertale encounters, specifically for genocide route.
 
 made for self-use because i’m too lazy to manually spam up/down keys.
 
